@@ -1,0 +1,23 @@
+2023-10-25 15:41:08,078 - root - INFO - ------ Verifying Sauce Labs page -----
+2023-10-25 15:41:08,079 - root - INFO - ------- test_tile TC started --------
+2023-10-25 15:41:08,622 - root - INFO - ------ act_tile is equal to expected title ----
+2023-10-25 15:41:11,266 - root - INFO - ----- Verify login function ------
+2023-10-25 15:41:24,448 - root - INFO - ------ Successfully logged into sauce labs -----
+2023-10-25 15:44:49,992 - root - INFO - ------ Verifying Sauce Labs page -----
+2023-10-25 15:44:49,993 - root - INFO - ------- test_tile TC started --------
+2023-10-25 15:44:50,457 - root - INFO - ------ act_tile is equal to expected title ----
+2023-10-25 15:44:52,945 - root - INFO - ----- Verify login function ------
+2023-10-25 15:45:06,129 - root - INFO - ------ Successfully logged into sauce labs -----
+2023-10-25 15:50:37,256 - root - INFO - ------ Verifying Sauce Labs page -----
+2023-10-25 15:50:37,256 - root - INFO - ------- test_tile TC started --------
+2023-10-25 15:55:41,734 - root - INFO - ----- Verify login function ------
+2023-10-25 15:59:04,755 - root - INFO - ----- Verify login function ------
+2023-10-25 15:59:04,964 - root - INFO - ------ Verifying Sauce Labs page -----
+2023-10-25 15:59:04,964 - root - INFO - ------- test_tile TC started --------
+2023-10-25 15:59:05,962 - root - INFO - ------ act_tile is equal to expected title ----
+2023-10-25 15:59:18,715 - root - INFO - ------ Successfully logged into sauce labs -----
+2023-10-25 16:18:07,262 - root - INFO - ------ Verifying Sauce Labs page -----
+2023-10-25 16:18:07,262 - root - INFO - ------- test_tile TC started --------
+2023-10-25 16:18:07,674 - root - INFO - ----- Verify login function ------
+2023-10-25 16:18:08,237 - root - INFO - ------ act_tile is equal to expected title ----
+2023-10-25 16:18:20,963 - root - INFO - ------ Successfully logged into sauce labs -----
